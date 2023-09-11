@@ -46,7 +46,7 @@ Feel free to fork the project and submit your contributions through pull request
 
 ## License
 
-This project is under the MIT license. See the [LICENSE](LICENSE.md) file for details.
+This project is under the MIT license. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
